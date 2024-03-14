@@ -27,7 +27,7 @@
       placeholder="Type something"
     >
       <template #prefix>
-        <el-icon class="el-input__icon"><search /></el-icon>
+        <el-icon class="el-input__icon"></el-icon>
       </template>
     </el-input>
   </div>
